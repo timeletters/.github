@@ -2,7 +2,7 @@
 
 you can find us in https://www.timeletters.cn
 
-## about 
+## About us
 
 Timeletters is a platform to allow you write letters to future.
 
